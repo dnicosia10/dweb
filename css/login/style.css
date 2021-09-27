@@ -1,0 +1,94 @@
+html,body{
+  margin: 0;
+  padding: 0;
+
+}
+body{
+
+background-image: url('imgs/bg2.png');
+
+}
+
+.inputs{
+  padding: 7px;
+  font-size: 20px;
+  border:1px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  width: 99%;
+  font-size: 20px;
+  font-family: RobotoLight;
+  margin-top: 4px;
+}
+#login-btn{
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  border:1px;
+  width: 99%;
+  font-size: 15px;
+  font-family: RobotoLight;
+  background-color: rgb(75, 223, 255);
+  color: white;
+  margin-bottom: 5px;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+}
+@font-face {
+    font-family: RobotoReg;
+    src: url('fonts/RobotoCondensed-Regular.ttf');
+}
+@font-face {
+    font-family: RobotoLight;
+    src: url('fonts/Roboto-Light.ttf');Roboto-Bold.ttf
+}
+@font-face {
+    font-family: RobotoBold;
+    src: url('fonts/Roboto-Bold.ttf');
+}
+@font-face {
+    font-family: TITILIUM;
+    src: url('Titillium-Regular.otf');
+}
+.login-container{
+  font-family: RobotoReg;
+  color:#4bceff;
+  width: 35%;
+  background-color: rgb(34, 34, 34);
+  margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  padding: 20px;
+  padding-bottom: 8px !important;
+  color: white;
+  margin-top: 10%;
+  padding-top: 1px !important;
+  padding-bottom: : 5px !important;
+  border-radius: 5px;
+}
+.login-container2{
+  font-family: RobotoReg;
+  color:#4bceff;
+  width: 35%;
+  background-color: rgb(34, 34, 34);
+  margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  padding: 20px;
+  padding-bottom: 8px !important;
+  color: white;
+  margin-top: 10%;
+  padding-top: 1px !important;
+  padding-bottom: : 5px !important;
+  border-radius: 5px;
+}
+.logo-img{
+
+  width:;
+
+  margin-bottom: 20px;
+}

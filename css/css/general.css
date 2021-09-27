@@ -1,0 +1,54 @@
+body{
+	background: #f4f4f4;
+} 
+#navbar-top{
+	border-radius: 0px;  
+	margin-bottom: 0px;  
+	border: none;
+	box-shadow:0px 0px 5px 2px #999;  
+
+}
+#navbar-top li a{
+	
+	font-size: 1.2em;
+}
+  
+#header {
+
+	background: #d5d5d5; 
+	padding:5px;
+	box-shadow:0px 0px 5px 3px #999; 
+}
+#header a{
+
+	text-decoration: none;
+	color: #222;
+}
+  
+.panel{
+	
+	border: none;
+}
+ 
+.active{
+	border: none;
+}
+
+.glyphicon{
+	color:  #5bc0de;
+}
+
+ 
+::-webkit-scrollbar{
+	background-color: #999;
+	width: 15px;
+} 
+::-webkit-scrollbar-thumb{
+	background-color: #333; 
+	border-radius: 15px;
+	box-shadow: inset #ccc;   
+}
+::-webkit-scrollbar-thumb{
+	background-color: #333; 
+	border-radius: 15px;   
+}
